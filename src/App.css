@@ -1,7 +1,12 @@
+body{
+  background-color: aquamarine;
+}
 .App {
   text-align: center;
 }
-
+.dt-table{
+  background-color: #fff;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
